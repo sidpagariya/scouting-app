@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:180548618064:android:71bf23004518d6a0",
         "android_client_info": {
-          "package_name": "com.sidpagariya.firebasemessaging"
+          "package_name": "io.sidpagariya.firebasemessaging"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "180548618064-0rdqbo5em9i6sufd7f9daooia3m1evou.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.sidpagariya.firebasemessaging",
+            "package_name": "io.sidpagariya.firebasemessaging",
             "certificate_hash": "013F3C19F9CCEBD109EC3A9024FADC43EC1D9406"
           }
         },

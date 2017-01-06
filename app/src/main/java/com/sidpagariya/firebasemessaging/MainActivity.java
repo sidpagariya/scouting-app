@@ -1,4 +1,4 @@
-package com.sidpagariya.firebasemessaging;
+package io.sidpagariya.firebasemessaging;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 

@@ -1,4 +1,4 @@
-package com.sidpagariya.firebasemessaging;
+package io.sidpagariya.firebasemessaging;
 
 /**
  * Created by Siddhant on 1/6/17.

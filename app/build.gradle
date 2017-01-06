@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.sidpagariya.firebasemessaging"
+        applicationId "io.sidpagariya.firebasemessaging"
         minSdkVersion 22
         targetSdkVersion 25
         versionCode 1

@@ -1,4 +1,4 @@
-package com.sidpagariya.firebasemessaging;
+package io.sidpagariya.firebasemessaging;
 
 import org.junit.Test;
 
